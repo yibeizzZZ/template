@@ -3,4 +3,4 @@ a.out
 *.class
 *.o
 grader/
-rt/
+rt/"grader/\nrt/" 
